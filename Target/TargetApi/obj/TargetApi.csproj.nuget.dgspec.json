@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Apps\\ProjetoTarget\\back\\Target\\TargetApi\\TargetApi.csproj": {}
+    "C:\\projetos\\projetoTarget\\ProjetoTargetBack\\Target\\TargetApi\\TargetApi.csproj": {}
   },
   "projects": {
-    "C:\\Apps\\ProjetoTarget\\back\\Target\\TargetApi\\TargetApi.csproj": {
+    "C:\\projetos\\projetoTarget\\ProjetoTargetBack\\Target\\TargetApi\\TargetApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Apps\\ProjetoTarget\\back\\Target\\TargetApi\\TargetApi.csproj",
+        "projectUniqueName": "C:\\projetos\\projetoTarget\\ProjetoTargetBack\\Target\\TargetApi\\TargetApi.csproj",
         "projectName": "TargetApi",
-        "projectPath": "C:\\Apps\\ProjetoTarget\\back\\Target\\TargetApi\\TargetApi.csproj",
-        "packagesPath": "C:\\Users\\MaqDev\\.nuget\\packages\\",
-        "outputPath": "C:\\Apps\\ProjetoTarget\\back\\Target\\TargetApi\\obj\\",
+        "projectPath": "C:\\projetos\\projetoTarget\\ProjetoTargetBack\\Target\\TargetApi\\TargetApi.csproj",
+        "packagesPath": "C:\\Users\\Robson\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\projetoTarget\\ProjetoTargetBack\\Target\\TargetApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\MaqDev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robson\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
